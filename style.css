@@ -1,0 +1,13 @@
+svg{ 
+ width:400px;
+ height:500px;
+ background-color:black;
+} 
+.banner{ 
+display:flex;
+justify-content:center;
+align-items:center;
+ width:50%;
+ height:10vh;
+ background-color:teal;
+} 
