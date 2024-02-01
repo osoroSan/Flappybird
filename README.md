@@ -13,7 +13,7 @@ Welcome to the Flappy Bird Clone repository! This project is a simple recreation
 
 ## Introduction
 
-This Flappy Bird Clone aims to replicate the addictive gameplay of the original game. It's a fun project for those looking to enjoy the classic Flappy Bird experience.
+This Flappy Bird Clone aims to replicate the addictive gameplay of the original game. It's a fun project for those looking to enjoy the classic Flappy Bird experience..
 
 ## Files
 
